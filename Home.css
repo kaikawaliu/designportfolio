@@ -55,9 +55,8 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/avatarcopy3.png");
-  background-position: 40.34% 0%;
-  background-size: 130%;
+  background-image: url("images/avatarcopy42.png");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -75,7 +74,7 @@
 
   .u-section-1 .u-image-1 {
     min-height: 507px;
-    background-size: auto 130%;
+    background-position: 35.59% 50%;
   }
 }
 
@@ -94,7 +93,7 @@
 
   .u-section-1 .u-image-1 {
     min-height: 388px;
-    background-position: 56.78% 0%;
+    background-position: 53.95% 0%;
   }
 }
 
@@ -123,7 +122,6 @@
 
   .u-section-1 .u-image-1 {
     min-height: 582px;
-    background-size: 135%;
   }
 }
 
@@ -137,7 +135,7 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 511px;
+    min-height: 100px;
   }
 
   .u-section-1 .u-text-1 {
